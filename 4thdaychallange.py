@@ -1,4 +1,4 @@
-# To check number is pallindrome
+# To check number is reverse
 
 def reverse_string(s):
     return s[::-1]
