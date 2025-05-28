@@ -24,7 +24,7 @@ for i in range(1,10,3):
 print("-----------------------")
 
 data=[(1,3),(3,1),(2,3)]
-sorted_data=sorted(data, key=lambda x:x[1])
+sorted_data=sorted(data, key=lambda x:x[0])
 print(sorted_data)
 
 
