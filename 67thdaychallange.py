@@ -9,4 +9,4 @@ def day_of_the_week(day):
       case _:
         return False
 
-print(day_of_the_week("Sunday"))
+print(day_of_the_week("Pizza"))
