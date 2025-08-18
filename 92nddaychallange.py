@@ -39,7 +39,7 @@ class Rectangle:
         print("Height has been deleted")
 
 
-rectangle1 = Rectangle(10,20)
+#rectangle1 = Rectangle(10,20)
 rectangle1.width = 15  # Using the setter to change width
 rectangle1.height = 0  # Using the setter to change height
 
